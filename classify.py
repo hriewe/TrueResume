@@ -1,5 +1,5 @@
 #Python program to classify specified words in pdf/png files.
-#Hayden Riewe, Chris Lambert, Ayush Petigara
+#Hayden Riewe, Chris Lambert, Ayush Petigara, Nathan Binkley
 #Repo: https://github.com/theriley106/TrueResume
 
 from PIL import Image, ImageDraw
