@@ -1,8 +1,6 @@
 # TrueResume
-Reducing Gender/Racial/Age discrimination in the hiring process
+Reducing Gender/Racial/Age discrimination in the hiring process.
 
+Award winning project for AuburnHacks 2019.
 
-
-# Format
-
-filename_age.pdf
+Developed by: Hayden Riewe, Chris Lambert, Ayush Petigara, and Nathan Binkly.
